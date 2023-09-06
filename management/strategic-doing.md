@@ -26,6 +26,8 @@
    1. [Linking And Leveraging Assets To Innovate](#Linking-And-Leveraging-Assets-To-Innovate)
    2. [Linking And Leveraging Assets Force Us To Think Horizontally](#Linking-And-Leveraging-Assets-Force-Us-To-Think-Horizontally)
    3. [Developing Your Ability To Think Horizontally](#Developing-Your-Ability-To-Think-Horizontally)
+   4. [Guiding A Group To Think Horizontally](#Guiding-A-Group-To-Think-Horizontally)
+   5. [Putting The Skill to Work: The Agile Leader As Connector](#The-Agile-Leader-As-Connector)
 
 ***
 ## Chapter 1: You Are Here <a name="ou-Are-Here"></a>
@@ -53,3 +55,6 @@
 ### Linking And Leveraging Assets To Innovate <a name="Linking-And-Leveraging-Assets-To-Innovate"></a>
 ### Linking And Leveraging Assets Force Us To Think Horizontally <a name="Linking-And-Leveraging-Assets-Force-Us-To-Think-Horizontally"></a>
 ### Developing Your Ability To Think Horizontally <a name="Developing-Your-Ability-To-Think-Horizontally"></a>
+### Guiding A Group To Think Horizontally <a name="Guiding-A-Group-To-Think-Horizontally"></a>
+### Putting The Skill to Work: The Agile Leader As Connector <a name="The-Agile-Leader-As-Connector"></a>
+
