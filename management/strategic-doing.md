@@ -98,13 +98,53 @@ A complex system is a system in which many independent components (or “agents�
 “Each worker had a supervisor, who was also overseen by a supervisor, and there was another supervisor after that. This structure – the hierarchy – came to characterize the world of work”
 “organization charts.”
 
->What Is a Network?
+**What Is a Network?**
 
+![Network](./img/network.png?raw=true "Network Structure")
+- It forms around a set of assets, or resources. These assets might take many forms: a physical location, a particular technology, even an intangible set of ideas that people hold in common. We often call this set of assets the hub of the network.
+- There is usually a set of people who are particularly closely related to the hub. They may be the people who formed the initial network. Communication is easiest within this core, particularly if they are geographically in the same location.
+- There are other people who are more loosely connected. They may not even be connected to the hub directly, but rather connected through someone else. It's challenging to get a message to all of these people, particularly those on the periphery.
+- The network is never static. There may be people who start off in the core but then become less connected, while there may be other people who become more deeply involved over time. The boundary dividing who is “in” and who is “out” of the network is a porous one.
+- There is no “top” or “bottom” to a network. There is no one individual or entity that can give directions for the members to carry out.
+
+**Kinds of Networks**
+
+- advocacy networks  
+*made up of people who work to advance a particular cause or idea. Members don't necessarily know each other, but all are part of the network because of its mission.*
+- Learning networks  
+*group of people wants to increase their knowledge or skills in a particular area. At least some of the members usually know one another reasonably well.*
+- innovating network  
+*networks are composed of people who have joined forces to create new value together, like the children's story Stone Soup*
+
+**Hierarchies, Networks, and Strategy**
+In a hierarchy, the challenge is to communicate information about what to do down, and to get information about the results up.  
+In a network, on the other hand, the challenge is to get the members' resources and efforts aligned toward a chosen objective.
 
 <a id="S-Curve"></a>
 ### S-Curve
+
+![s-curve](./img/s-curve.png?raw=true "The S-Curve")
+
+S‐Curves help us understand what is happening at various points in the cycle – or, to put it more broadly, in any change process.
+There are three important insights S‐Curves provide:
+- Change is constant and dynamic.
+- Nothing lasts forever under its initial momentum.
+- Success contains the seeds of its own destruction.
+
 <a id="The-Changes-We-Need-To-Make"></a>
 ### The Changes We Need To Make
+
+- We need to think differently.
+- We need to behave differently.
+- We need to “do” differently (this is different than behaving differently).
+
+**Thinking Differently**  
+Let's start with a not‐so‐simple question: What is strategy, anyhow?  
+Where are we going? and How are we going to get there? With this definition, think about the strategic plans you've recently read or been a part of developing.  
+Strategy has to be a team effort, and the more complex the environment, the larger the group – the network – that will need to be engaged.  
+The word we often use for working together is *collaboration*.  
+Collaboration involves linking, leveraging, and aligning resources in ways that enhance one another's capacity to create a shared outcome, a mutual benefit.  
+
 <a id="Skill-1"></a>
 ## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1)
 <a id="Deep-Conversations"></a>
