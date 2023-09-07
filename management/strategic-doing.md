@@ -76,61 +76,119 @@
 ### S-Curve
 <a id="The-Changes-We-Need-To-Make"></a>
 ### The Changes We Need To Make
-## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1) <a id="Skill-1"></a>
-### Deep Conversations <a id="Deep-Conversations"></a>
-### Focused Conversations <a id="Focused-Conversations"></a>
-### Deep, Focused Group Conversations <a id="Deep-Focused-Group-Conversations"></a>
-### Putting The Skill to Work: The Agile Leader as Conversation Guide <a id="The-Agile-Leader-as-Conversation-Guide"></a>
-## Chapter 3: Frame The Conversation With The Right Question (Skill 2) <a id="Skill-2"></a>
-### Adaptive Leadership: One Question, Many Answers <a id="One-Question-Many-Answers"></a>
-### Appreciative Questions <a id="Appreciative-Questions"></a>
-### Developing Questions To Frame Conversations <a id="Developing-Questions-To-Frame-Conversations"></a>
-### Putting The Skill to Work: The Agile Leader As Questioner <a id="The-Agile-Leader-As-Questioner"></a>
-## Chapter 4: Identify Your Assets, Including The Hidden Ones(Skill 3) <a id="Skill-3"></a>
-### Assets <a id="Assets"></a>
-### Guidelines For Identifying Assets <a id="Guidelines-For-Identifying-Assets"></a>
-### Hidden Assets <a id="Hidden-Assets"></a>
-### Assets Are Starting Points <a id="Assets-Are-Starting-Points"></a>
-### Putting The Skill to Work: The Agile Leader As Inventory Taker <a id="The-Agile-Leader-As-Inventory-Taker"></a>
-## Chapter 5: Link And Leverage Assets To Identify New Opportunities (Skill 4) <a id="Skill-4"></a>
-### Linking And Leveraging Assets To Innovate <a id="Linking-And-Leveraging-Assets-To-Innovate"></a>
-### Linking And Leveraging Assets Force Us To Think Horizontally <a id="Linking-And-Leveraging-Assets-Force-Us-To-Think-Horizontally"></a>
-### Developing Your Ability To Think Horizontally <a id="Developing-Your-Ability-To-Think-Horizontally"></a>
-### Guiding A Group To Think Horizontally <a id="Guiding-A-Group-To-Think-Horizontally"></a>
-### Putting The Skill to Work: The Agile Leader As Connector <a id="The-Agile-Leader-As-Connector"></a>
-## Chapter 6: Look For The "Big Easy" (Skill 5) <a id="Skill-5"></a>
-### Decision-Making Methodologies <a id="Decision-Making-Methodologies"></a>
-### The 2x2 Matrix <a id="The-2x2-Matrix"></a>
-### Dealing With Doubts and Doubters <a id="Dealing-With-Doubts-and-Doubters"></a>
-### Putting The Skill to Work: The Agile Leader As Prioritizer <a id="The-Agile-Leader-As-Prioritizer"></a>
-## Chapter 7: Convert Your Ideas To Outcomes With Measurable Characteristics (Skill 6) <a id="Skill-6"></a>
-### Great Ideas Lie Below The Surface <a id="Great-Ideas-Lie-Below-The-Surface"></a>
-### Three Questions To Ask <a id="Three-Questions-To-Ask"></a>
-### Measuring <a id="Measuring"></a>
-### Putting The Skill to Work: The Agile Leader As Dreamcatcher <a id="The-Agile-Leader-As-Dreamcatcher"></a>
-## Chapter 8: Start Slowly To Go Fast - But Start (Skill 7) <a id="Skill-7"></a>
-### Launching Your Learning <a id="Launching-Your-Learning"></a>
-### Qualities Of A Good Starting Project <a id="Qualities-Of-A-Good-Starting-Project"></a>
-### Keeping The Team On Track <a id="Keeping-The-Team-On-Track"></a>
-### What Next ? <a id="What-Next"></a>
-### Putting The Skill to Work: The Agile Leader As Experimenter <a id="The-Agile-Leader-As-Experimenter"></a>
-## Chapter 9: Draft Short-Term Action Plans That Include Everyone <a id="Skill-8"></a>
-### Shared Leadership <a id="Shared-Leadership"></a>
-### Action Plans For Shared Leadership <a id="Action-Plans-For-Shared-Leadership"></a>
-### Micro-Commitments Build Trust <a id="Micro-Commitments-Build-Trust"></a>
-### Putting The Skill to Work: The Agile Leader As Deal-Closer <a id="The-Agile-Leader-As-Deal-Closer"></a>
-## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust <a id="Skill-9"></a>
-### Learing Loops <a id="Learing-Loops"></a>
-### Building New Habits <a id="Building-New-Habits"></a>
-### Putting The Skill to Work: The Agile Leader As Convener <a id="The-Agile-Leader-As-Convener"></a>
-## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits <a id="Skill-10"></a>
-### Nudging <a id="Nudgings"></a>
-### Connecting <a id="Connecting"></a>
-### Promoting <a id="Promoting"></a>
-### Putting The Skill to Work: The Agile Leader As Chief Doing Officer <a id="The-Agile-Leader-As-Chief-Doing-Officer"></a>
-## Chapter 12: Ten Skills. Got It. Now What ? <a id="Now-What"></a>
-### Putting It All Together: Strategic Doing <a id="Strategic-Doing"></a>
-### Using Strategic Doing As An Individual <a id="Using-Strategic-Doing-As-An-Individual"></a>
-### Using Strategic Doing In A Small Group <a id="Using-Strategic-Doing-In-A-Small-Group"></a>
-### Using Strategic Doing With A Large Initiative <a id="Using-Strategic-Doing-With-A-Large-Initiative"></a>
-### Final Thoughts <a id="Final-Thoughts"></a>
+<a id="Skill-1"></a>
+## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1)
+<a id="Deep-Conversations"></a>
+### Deep Conversations
+<a id="Focused-Conversations"></a>
+### Focused Conversations
+<a id="Deep-Focused-Group-Conversations"></a>
+### Deep, Focused Group Conversations
+<a id="The-Agile-Leader-as-Conversation-Guide"></a>
+### Putting The Skill to Work: The Agile Leader as Conversation Guide
+<a id="Skill-2"></a>
+## Chapter 3: Frame The Conversation With The Right Question (Skill 2)
+<a id="One-Question-Many-Answers"></a>
+### Adaptive Leadership: One Question, Many Answers
+<a id="Appreciative-Questions"></a>
+### Appreciative Questions
+<a id="Developing-Questions-To-Frame-Conversations"></a>
+### Developing Questions To Frame Conversations
+<a id="The-Agile-Leader-As-Questioner"></a>
+### Putting The Skill to Work: The Agile Leader As Questioner
+<a id="Skill-3"></a>
+## Chapter 4: Identify Your Assets, Including The Hidden Ones(Skill 3)
+<a id="Assets"></a>
+### Assets
+<a id="Guidelines-For-Identifying-Assets"></a>
+### Guidelines For Identifying Assets
+<a id="Hidden-Assets"></a>
+### Hidden Assets
+<a id="Assets-Are-Starting-Points"></a>
+### Assets Are Starting Points
+<a id="The-Agile-Leader-As-Inventory-Taker"></a>
+### Putting The Skill to Work: The Agile Leader As Inventory Taker
+<a id="Skill-4"></a>
+## Chapter 5: Link And Leverage Assets To Identify New Opportunities (Skill 4)
+<a id="Linking-And-Leveraging-Assets-To-Innovate"></a>
+### Linking And Leveraging Assets To Innovate
+<a id="Linking-And-Leveraging-Assets-Force-Us-To-Think-Horizontally"></a>
+### Linking And Leveraging Assets Force Us To Think Horizontally
+<a id="Developing-Your-Ability-To-Think-Horizontally"></a>
+### Developing Your Ability To Think Horizontally
+<a id="Guiding-A-Group-To-Think-Horizontally"></a>
+### Guiding A Group To Think Horizontally
+<a id="The-Agile-Leader-As-Connector"></a>
+### Putting The Skill to Work: The Agile Leader As Connector
+<a id="Skill-5"></a>
+## Chapter 6: Look For The "Big Easy" (Skill 5)
+<a id="Decision-Making-Methodologies"></a>
+### Decision-Making Methodologies
+<a id="The-2x2-Matrix"></a>
+### The 2x2 Matrix
+<a id="Dealing-With-Doubts-and-Doubters"></a>
+### Dealing With Doubts and Doubters
+<a id="The-Agile-Leader-As-Prioritizer"></a>
+### Putting The Skill to Work: The Agile Leader As Prioritizer
+<a id="Skill-6"></a>
+## Chapter 7: Convert Your Ideas To Outcomes With Measurable Characteristics (Skill 6)
+<a id="Great-Ideas-Lie-Below-The-Surface"></a>
+### Great Ideas Lie Below The Surface
+<a id="Three-Questions-To-Ask"></a>
+### Three Questions To Ask
+<a id="Measuring"></a>
+### Measuring
+<a id="The-Agile-Leader-As-Dreamcatcher"></a>
+### Putting The Skill to Work: The Agile Leader As Dreamcatcher
+<a id="Skill-7"></a>
+## Chapter 8: Start Slowly To Go Fast - But Start (Skill 7)
+<a id="Launching-Your-Learning"></a>
+### Launching Your Learning
+<a id="Qualities-Of-A-Good-Starting-Project"></a>
+### Qualities Of A Good Starting Project
+<a id="Keeping-The-Team-On-Track"></a>
+### Keeping The Team On Track
+<a id="What-Next"></a>
+### What Next ?
+<a id="The-Agile-Leader-As-Experimenter"></a>
+### Putting The Skill to Work: The Agile Leader As Experimenter
+<a id="Skill-8"></a>
+## Chapter 9: Draft Short-Term Action Plans That Include Everyone
+<a id="Shared-Leadership"></a>
+### Shared Leadership
+<a id="Action-Plans-For-Shared-Leadership"></a>
+### Action Plans For Shared Leadership
+<a id="Micro-Commitments-Build-Trust"></a>
+### Micro-Commitments Build Trust
+<a id="The-Agile-Leader-As-Deal-Closer"></a>
+### Putting The Skill to Work: The Agile Leader As Deal-Closer
+<a id="Skill-9"></a>
+## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust
+<a id="Learing-Loops"></a>
+### Learing Loops
+<a id="Building-New-Habits"></a>
+### Building New Habits
+<a id="The-Agile-Leader-As-Convener"></a>
+### Putting The Skill to Work: The Agile Leader As Convener
+<a id="Skill-10"></a>
+## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits
+<a id="Nudgings"></a>
+### Nudging
+<a id="Connecting"></a>
+### Connecting
+<a id="Promoting"></a>
+### Promoting
+<a id="The-Agile-Leader-As-Chief-Doing-Officer"></a>
+### Putting The Skill to Work: The Agile Leader As Chief Doing Officer
+<a id="Now-What"></a>
+## Chapter 12: Ten Skills. Got It. Now What ?
+<a id="Strategic-Doing"></a>
+### Putting It All Together: Strategic Doing
+<a id="Using-Strategic-Doing-As-An-Individual"></a>
+### Using Strategic Doing As An Individual
+<a id="Using-Strategic-Doing-In-A-Small-Group"></a>
+### Using Strategic Doing In A Small Group
+<a id="Using-Strategic-Doing-With-A-Large-Initiative"></a>
+### Using Strategic Doing With A Large Initiative
+<a id="Final-Thoughts"></a>
+### Final Thoughts
