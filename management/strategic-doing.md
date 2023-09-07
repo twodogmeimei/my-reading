@@ -66,11 +66,16 @@
    5. [Final Thoughts](#Final-Thoughts)
 
 ***
-## Chapter 1: You Are Here <a id="You-Are-Here"></a>
-### The Challenges We Face <a id="The-Challenges-We-Face"></a>
-### What, Exactly, has Changed ? <a id="What-Exactly-has-Changed"></a>
-### S-Curve <a id="S-Curve"></a>
-### The Changes We Need To Make <a id="The-Changes-We-Need-To-Make"></a>
+<a id="You-Are-Here"></a>
+## Chapter 1: You Are Here
+<a id="The-Challenges-We-Face"></a>
+### The Challenges We Face
+<a id="What-Exactly-has-Changed"></a>
+### What, Exactly, has Changed ?
+<a id="S-Curve"></a>
+### S-Curve
+<a id="The-Changes-We-Need-To-Make"></a>
+### The Changes We Need To Make
 ## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1) <a id="Skill-1"></a>
 ### Deep Conversations <a id="Deep-Conversations"></a>
 ### Focused Conversations <a id="Focused-Conversations"></a>
