@@ -65,27 +65,6 @@
    4. [Using Strategic Doing With A Large Initiative](#Using-Strategic-Doing-With-A-Large-Initiative)
    5. [Final Thoughts](#Final-Thoughts)
 
-## Chapter 9: Draft Short-Term Action Plans That Include Everyone <a name="Skill-8"></a>
-### Shared Leadership <a name="Shared-Leadership"></a>
-### Action Plans For Shared Leadership <a name="Action-Plans-For-Shared-Leadership"></a>
-### Micro-Commitments Build Trust <a name="Micro-Commitments-Build-Trust"></a>
-### Putting The Skill to Work: The Agile Leader As Deal-Closer <a name="The-Agile-Leader-As-Deal-Closer"></a>
-## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust <a name="Skill-9"></a>
-### Learing Loops <a name="Learing-Loops"></a>
-### Building New Habits <a name="Building-New-Habits"></a>
-### Putting The Skill to Work: The Agile Leader As Convener <a name="The-Agile-Leader-As-Convener"></a>
-## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits <a name="Skill-10"></a>
-### Nudging <a name="Nudgings"></a>
-### Connecting <a name="Connecting"></a>
-### Promoting <a name="Promoting"></a>
-### Putting The Skill to Work: The Agile Leader As Chief Doing Officer <a name="The-Agile-Leader-As-Chief-Doing-Officer"></a>
-## Chapter 12: Ten Skills. Got It. Now What ? <a name="Now-What"></a>
-### Putting It All Together: Strategic Doing <a name="Strategic-Doing"></a>
-### Using Strategic Doing As An Individual <a name="Using-Strategic-Doing-As-An-Individual"></a>
-### Using Strategic Doing In A Small Group <a name="Using-Strategic-Doing-In-A-Small-Group"></a>
-### Using Strategic Doing With A Large Initiative <a name="Using-Strategic-Doing-With-A-Large-Initiative"></a>
-### Final Thoughts <a name="Final-Thoughts"></a>
-
 ***
 ## Chapter 1: You Are Here <a name="You-Are-Here"></a>
 ### The Challenges We Face <a name="The-Challenges-We-Face"></a>
@@ -130,3 +109,23 @@
 ### Keeping The Team On Track <a name="Keeping-The-Team-On-Track"></a>
 ### What Next ? <a name="What-Next"></a>
 ### Putting The Skill to Work: The Agile Leader As Experimenter <a name="The-Agile-Leader-As-Experimenter"></a>
+## Chapter 9: Draft Short-Term Action Plans That Include Everyone <a name="Skill-8"></a>
+### Shared Leadership <a name="Shared-Leadership"></a>
+### Action Plans For Shared Leadership <a name="Action-Plans-For-Shared-Leadership"></a>
+### Micro-Commitments Build Trust <a name="Micro-Commitments-Build-Trust"></a>
+### Putting The Skill to Work: The Agile Leader As Deal-Closer <a name="The-Agile-Leader-As-Deal-Closer"></a>
+## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust <a name="Skill-9"></a>
+### Learing Loops <a name="Learing-Loops"></a>
+### Building New Habits <a name="Building-New-Habits"></a>
+### Putting The Skill to Work: The Agile Leader As Convener <a name="The-Agile-Leader-As-Convener"></a>
+## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits <a name="Skill-10"></a>
+### Nudging <a name="Nudgings"></a>
+### Connecting <a name="Connecting"></a>
+### Promoting <a name="Promoting"></a>
+### Putting The Skill to Work: The Agile Leader As Chief Doing Officer <a name="The-Agile-Leader-As-Chief-Doing-Officer"></a>
+## Chapter 12: Ten Skills. Got It. Now What ? <a name="Now-What"></a>
+### Putting It All Together: Strategic Doing <a name="Strategic-Doing"></a>
+### Using Strategic Doing As An Individual <a name="Using-Strategic-Doing-As-An-Individual"></a>
+### Using Strategic Doing In A Small Group <a name="Using-Strategic-Doing-In-A-Small-Group"></a>
+### Using Strategic Doing With A Large Initiative <a name="Using-Strategic-Doing-With-A-Large-Initiative"></a>
+### Final Thoughts <a name="Final-Thoughts"></a>
