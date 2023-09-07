@@ -145,6 +145,9 @@ Strategy has to be a team effort, and the more complex the environment, the larg
 The word we often use for working together is *collaboration*.  
 Collaboration involves linking, leveraging, and aligning resources in ways that enhance one another's capacity to create a shared outcome, a mutual benefit.  
 
+**Behaving Differently**  
+
+
 <a id="Skill-1"></a>
 ## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1)
 <a id="Deep-Conversations"></a>
