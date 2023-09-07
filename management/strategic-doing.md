@@ -70,8 +70,37 @@
 ## Chapter 1: You Are Here
 <a id="The-Challenges-We-Face"></a>
 ### The Challenges We Face
+
+>You have two weeks in the summer to take a vacation with two teenage children. How do you plan it?
+
+Option A, which is more of a command‐and‐control decision with one decision maker, presumably in possession of all the relevant facts, making a rational decision.
+
+Option B requires deeper conversations, and an embrace of ambiguity
+
+– and that's the point.
+
+There is no way to put all of these factors into some equation and come up with an optimal answer. Instead, we learn to muddle through to a satisfactory solution.
+
+A complex system is a system in which many independent components (or “agents”) interact with one another.
+
+“the concept of “wicked problems.” These are problems that are difficult or impossible to solve because our information is incomplete or contradictory. What's more, conditions are continuously changing.”
+“Because of the interdependencies within the complex systems that give rise to wicked problems, an effort to solve one problem can give rise to others. We can quickly create “unintended consequences.” There is no simple solution to a wicked problem. Proposed solutions are neither wholly right nor completely wrong, and every wicked problem is unique.”
+“We know that no single organization or individual can solve a complex problem. Indeed, every solution we develop is temporary – when conditions inevitably change, we will have to adjust.”
+
 <a id="What-Exactly-has-Changed"></a>
 ### What, Exactly, has Changed ?
+
+“In the middle of the 1800s, that began to change,”
+“New machines made it possible to produce things people needed or wanted”
+“Companies formed around these new technologies and began to draw people into cities for work to create these new goods. This “industrial revolution”
+“But as with most big transitions, there was a trade‐off. These new jobs didn't come with the same freedom to organize one's own days, weeks, and months.”
+“There was a supervisor to answer to. And soon, those supervisors were listening to a new kind of expert, a “management consultant” who talked about “efficiencies” and timed each part of a job, finding ways to shave off even hundredths of a second from each component of a task, in order to maximize profits.”
+“Each worker had a supervisor, who was also overseen by a supervisor, and there was another supervisor after that. This structure – the hierarchy – came to characterize the world of work”
+“organization charts.”
+
+>What Is a Network?
+
+
 <a id="S-Curve"></a>
 ### S-Curve
 <a id="The-Changes-We-Need-To-Make"></a>
