@@ -143,6 +143,11 @@ Let's start with a not‐so‐simple question: What is strategy, anyhow?
 Where are we going? and How are we going to get there? With this definition, think about the strategic plans you've recently read or been a part of developing.  
 Strategy has to be a team effort, and the more complex the environment, the larger the group – the network – that will need to be engaged.  
 The word we often use for working together is *collaboration*.  
+
+*True* collaboration is at one end of a continuum of joint efforts.  
+When people come together, they usually start by just exchanging information about who they are and what they do – we often call this *networking*.    
+A bit more involved is *coordinating*, Still further along the continuum is *cooperating*.  
+All of these activities are good – but they aren't collaboration (although we may claim otherwise in a presentation!).    
 Collaboration involves linking, leveraging, and aligning resources in ways that enhance one another's capacity to create a shared outcome, a mutual benefit.  
 
 **Behaving Differently**  
