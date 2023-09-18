@@ -151,7 +151,48 @@ All of these activities are good – but they aren't collaboration (although we 
 Collaboration involves linking, leveraging, and aligning resources in ways that enhance one another's capacity to create a shared outcome, a mutual benefit.  
 
 **Behaving Differently**  
+Their work together took four months, and resulted in the US Constitution.  
+The key point is that the delegates realized that the work they were embarking upon was exceedingly complex and fraught with tension. In order to navigate the discussions ahead, they recognized before they started that they needed to decide what the ground rules should be.    
+In any change effort, there are three kinds of people,  
+Since “trust” is another of those words that can mean different things to different people, here's what we mean by trust – not so much a definition as a test for its existence: trust is established when words and actions align.  
+At one end, there are pioneers, the people leading the charge and eager to change. This is usually a small group,  
+Then there is a much larger group, which we can call the pragmatists.  
+Pragmatists will go along with change as soon as they see that it's prudent to do so – they want to see that their time and/or reputation won't be wasted.  
+“there's a third group – those that aren't interested in joining in. They say (and keep saying) things like, “That will never work,” “We've tried that before,” or “What we have is good enough.” We call this group the soreheads. Fortunately, their numbers are also few.  
+![The people in the network](./img/people-in-network.png?raw=true "The people in the network")  
+I know there's one‐third that is ready to move, and if they come along, there's another third that will join in to join the first third. And I don't worry about the last third.  
+There are often people who look like soreheads but turn out to be pragmatists – they're just a bit slower to join up.  
+we need to behave differently not just when we're discussing what we might do, but when we actually begin to make decisions.  
+We need to balance two dimensions: guidance and participation.  
+no guidance but lots of people involved, you get chaos.  
+no guidance and low participation, that's apathy  
+plenty of guidance but low participation – the classic backroom deal.  
+high participation with high guidance. Everyone's voice is heard, but the discussion is guided and has direction.  
+there has been plenty of input, but it's also efficient – people don't feel that their time has been wasted with meetings that don't go anywhere.  
 
+**Doing Differently**  
+“Thinking differently and behaving differently “set the table” for the third thing that needs to happen in order for companies, organizations, or communities to successfully navigate challenges – doing differently.”
+“The ten skills in the remainder of this book break that “doing” down into specific components that are simple to understand and put into practice. They are not, however, a “one‐and‐done” formula. Change is constant – there is always another S‐Curve, sooner or later.”
+internet & software design  
+internet:
+- interactive communications: 1-1 emal, 1-n youtube, n-1 kickstarter, n-n ebay  
+- break classical top-down hierarchy and the traditional strategic planning  
+
+software design:  
+- members of team are each working on just a bit of the program
+- meets together frequently so that they can stay on track and aligned with one another and ensure that there aren't any compatibility issues.  
+- old time: every version with box, now: patches update 
+
+What is critical is that the team has a process to manage this kind of ongoing effort – ways of working together that have become firmly established with practice and discipline.  
+
+\* \* \*  
+
+We've now set the stage for the ten skills by introducing some of the key concepts that explain why strategy needs to be approached differently and a few of the assumptions you'll glimpse in the pages ahead.  
+- When faced with complexity, the right approach is one in which there are a limited number of principles, but ones that are robust enough to allow for many possibilities and strategic shifts where necessary.
+- They are simple, but not easy; they require practice and attention to master.  
+- The real power of the skills is in combining them – perhaps not all ten at any one time, but identifying the skills most called for in a particular situation. The whole is truly more than the sum of its parts.  
+
+\-- **it's time to lift the curtain** \--
 
 <a id="Skill-1"></a>
 ## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1)
