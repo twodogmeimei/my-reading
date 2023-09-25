@@ -117,6 +117,7 @@ A complex system is a system in which many independent components (or “agents�
 *networks are composed of people who have joined forces to create new value together, like the children's story Stone Soup*
 
 **Hierarchies, Networks, and Strategy**
+
 In a hierarchy, the challenge is to communicate information about what to do down, and to get information about the results up.  
 In a network, on the other hand, the challenge is to get the members' resources and efforts aligned toward a chosen objective.
 
@@ -139,6 +140,7 @@ There are three important insights S‐Curves provide:
 - We need to “do” differently (this is different than behaving differently).
 
 **Thinking Differently**  
+
 Let's start with a not‐so‐simple question: What is strategy, anyhow?  
 Where are we going? and How are we going to get there? With this definition, think about the strategic plans you've recently read or been a part of developing.  
 Strategy has to be a team effort, and the more complex the environment, the larger the group – the network – that will need to be engaged.  
@@ -151,6 +153,7 @@ All of these activities are good – but they aren't collaboration (although we 
 Collaboration involves linking, leveraging, and aligning resources in ways that enhance one another's capacity to create a shared outcome, a mutual benefit.  
 
 **Behaving Differently**  
+
 Their work together took four months, and resulted in the US Constitution.  
 The key point is that the delegates realized that the work they were embarking upon was exceedingly complex and fraught with tension. In order to navigate the discussions ahead, they recognized before they started that they needed to decide what the ground rules should be.    
 In any change effort, there are three kinds of people,  
@@ -170,7 +173,8 @@ plenty of guidance but low participation – the classic backroom deal.
 high participation with high guidance. Everyone's voice is heard, but the discussion is guided and has direction.  
 there has been plenty of input, but it's also efficient – people don't feel that their time has been wasted with meetings that don't go anywhere.  
 
-**Doing Differently**  
+**Doing Differently**    
+
 “Thinking differently and behaving differently “set the table” for the third thing that needs to happen in order for companies, organizations, or communities to successfully navigate challenges – doing differently.”
 “The ten skills in the remainder of this book break that “doing” down into specific components that are simple to understand and put into practice. They are not, however, a “one‐and‐done” formula. Change is constant – there is always another S‐Curve, sooner or later.”
 internet & software design  
@@ -196,24 +200,128 @@ We've now set the stage for the ten skills by introducing some of the key concep
 
 <a id="Skill-1"></a>
 ## Chapter 2: Create And Maintain A Safe Space For Deep, Focused Conversation (Skill 1)
-<a id="Deep-Conversations"></a>
+<a id="Deep-Conversations"></a>  
+>Agile leadership means knowing how to guide conversations. This ability begins with understanding how to create and maintain a safe space where great conversations can occur.  
+> 
+>let's first be sure to understand the nature of deep, focused conversations. That will help us determine the right sort of spaces in which to have them.  
+
 ### Deep Conversations
 <a id="Focused-Conversations"></a>
+Eleanor Roosevelt:  
+>Great minds discuss ideas; average minds discuss events; small minds discuss people.  
+
+Of course, not every conversation needs to be a deep one. Many of the daily tasks of business and life can be accomplished with conversations that skim, appropriately, right along the surface.      
+ordering a take-out pizza dont need a talk of idea  
+the more we discuss ideas with others, the happier and more satisfied we are likely to be.  
+
 ### Focused Conversations
 <a id="Deep-Focused-Group-Conversations"></a>
+Focus is hard to come by.   
+Time to focus and time to have focused conversations won't just happen.   
+For most of us, life is just too busy.   
+>Focus requires discipline
+
+Like deep conversations, focused conversations won't just happen. We need to deliberately shut out potential distractions, even for just a short amount of time.    
+
 ### Deep, Focused Group Conversations
 <a id="The-Agile-Leader-as-Conversation-Guide"></a>
-### Putting The Skill to Work: The Agile Leader as Conversation Guide
+Increasing the productivity of groups and teams begins with increasing the productivity of their conversations. There are several ways we can address this.  
+
+**Group Size**
+
+One of the ways to assure deep, focused group conversations is to pay attention to the size of the group having the conversation.  
+
+optimal group size:
+- Amazon's Jeff Bezos's “two‐pizza
+- Decide & Deliver: 7 persons and that every person beyond seven reduced the team's effectiveness by 10%
+- Psychological Sciences: 5 persons 
+
+ps. above in common is that five and seven are both odd numbers, having an odd number of people in a group is better than an even number.  
+
+if team size gets to about 15~20 members, all they can do is to make a decision about when to take a lunch break.
+
+**Safe Places for Conversation**
+
+we can now turn our attention to the spaces and places where such conversations can best occur.
+
+we don't always have the ability to determine where and when strategic conversations will happen. Whenever possible, however, it is preferable to give this some thought and to do some preplanning.
+
+We selected a location for the first gathering that was neutral and, as one of our colleagues describes it, *equally inconvenient for everyone involved*
+
+In communities, it is especially important to pay attention to the local context when deciding where to have strategic conversations.
+- the library is often a safe space for strategic conversations about civic issues. A library has some basic rules of behavior, and usually there's no such thing as a dumb question at the library.
+- children's museums. It could be something called the teddy bear principle at work: there is evidence that when adults are exposed to childhood cues they exhibit more prosocial behavior.
+
+**Safe Spaces for Conversation**
+
+Along with safe physical places, the notion of safe behavior is equally important
+
+*psychological* safety: Edmondson describes it as a shared belief among members of a team or group that they are safe in taking interpersonal risks. In psychologically safe teams, team members feel accepted and respected.
+
+As a leader, how do you assure psychological safety in creating and maintaining safe spaces for deep focused conversations?
+
+A Brilliant Solution: Inventing the American Constitution, a such complex conversations, the first order of business was to draft the rules that would govern their conversations, like:
+- while a member is speaking don't walk in front, hold sidebar conversations, or read a newspaper or pamphlet
+- if two men rise to speak at the time, General Washington will determine the order in which they will speak. Knowing that there were a lot of talkers among the group (apparently an occupational hazard for politicians in every era!)
+- on any given topic, a person could only speak two times. These rules helped ensure that the participants felt the kind of psychological safety they needed to confront difficult decisions.
+
+Agile leaders consider the settings of their conversations from many vantage points. The physical location is important, but there are many other factors that will help participants build trust with one another and give their very best to the challenge at hand. When the topic of discussion is complex, the conversation will need to be deep and focused, and such conversations rarely happen without thoughtful planning.
+
+like the travel guider, this is the role of the conversation guide as well, and why this skill of maintaining a safe environment for deep and focused conversation comes first.
+
+
+### Putting The Skill to Work: The Agile Leader As <u>Conversation Guide</u>
 <a id="Skill-2"></a>
+Picking the right room, group is the right size, and "dont read a newspaper or pamphlet" likes "put your smartphone away, close your laptop"
+
+Go‐to rule of civility is this – *we will behave in ways that build trust and mutual respect.*
+
+It is not only the role of the agile leader to communicate and reinforce this rule, it is a shared responsibility among those having the conversation
+
+*equity of voice*
+
+there is evidence that the best outcomes occur in groups that have the greatest levels of “equity of voice.
+
+every member talks about the same amount of time.
+
 ## Chapter 3: Frame The Conversation With The Right Question (Skill 2)
 <a id="One-Question-Many-Answers"></a>
+Questions can be powerful
+
+Using the right question to do so can both open up new opportunities and keep the conversation focused in a productive direction.
+
+When the problem definition, solution, and implementation is clear, Heifetz calls this a <u>technical question</u>  
+
+Typically, there is one solution to a technical question.
+
+with technical problems, leaders will engage a skilled person or team to find a solution *using their technical skills.*
+
+<u>>Adaptive questions</u> are different. They point us to challenges for which there are no clear answers.
+
+Adaptive questions can trigger many answers that might all lead to acceptable solutions.
+
+These types of questions have no known procedures or outcomes; they require a deeper questioning of fundamental assumptions and values.
+
+Solving adaptive questions requires us to exert significantly more effort, have a tolerance for uncertainty, and include the presence of divergent voices.
+
+We will need to engage others, and through their collective intelligence and strategic intuition.
+
+The adaptive leader develops the skill of asking clear, adaptive questions.
+
+These questions point a team, organization or community in a new direction. Being an adaptive leader requires you to be open to experimentation and innovation in order to generate answers to your adaptive questions.
+
+You will find that your experiments – your efforts to answer your adaptive question – are iterative.
+
+Exploring these potential solutions allows you to build new levels of trust and collaboration among the people who are part of the journey to discover new answers to adaptive questions.
+
 ### Adaptive Leadership: One Question, Many Answers
 <a id="Appreciative-Questions"></a>
+
 ### Appreciative Questions
 <a id="Developing-Questions-To-Frame-Conversations"></a>
 ### Developing Questions To Frame Conversations
 <a id="The-Agile-Leader-As-Questioner"></a>
-### Putting The Skill to Work: The Agile Leader As Questioner
+### Putting The Skill to Work: The Agile Leader As <u>Questioner</u>
 <a id="Skill-3"></a>
 ## Chapter 4: Identify Your Assets, Including The Hidden Ones(Skill 3)
 <a id="Assets"></a>
@@ -225,7 +333,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Assets-Are-Starting-Points"></a>
 ### Assets Are Starting Points
 <a id="The-Agile-Leader-As-Inventory-Taker"></a>
-### Putting The Skill to Work: The Agile Leader As Inventory Taker
+### Putting The Skill to Work: The Agile Leader As <u>Inventory Taker</u>
 <a id="Skill-4"></a>
 ## Chapter 5: Link And Leverage Assets To Identify New Opportunities (Skill 4)
 <a id="Linking-And-Leveraging-Assets-To-Innovate"></a>
@@ -237,7 +345,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Guiding-A-Group-To-Think-Horizontally"></a>
 ### Guiding A Group To Think Horizontally
 <a id="The-Agile-Leader-As-Connector"></a>
-### Putting The Skill to Work: The Agile Leader As Connector
+### Putting The Skill to Work: The Agile Leader As <u>Connector</u>
 <a id="Skill-5"></a>
 ## Chapter 6: Look For The "Big Easy" (Skill 5)
 <a id="Decision-Making-Methodologies"></a>
@@ -247,7 +355,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Dealing-With-Doubts-and-Doubters"></a>
 ### Dealing With Doubts and Doubters
 <a id="The-Agile-Leader-As-Prioritizer"></a>
-### Putting The Skill to Work: The Agile Leader As Prioritizer
+### Putting The Skill to Work: The Agile Leader As <u>Prioritizer</u>
 <a id="Skill-6"></a>
 ## Chapter 7: Convert Your Ideas To Outcomes With Measurable Characteristics (Skill 6)
 <a id="Great-Ideas-Lie-Below-The-Surface"></a>
@@ -257,7 +365,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Measuring"></a>
 ### Measuring
 <a id="The-Agile-Leader-As-Dreamcatcher"></a>
-### Putting The Skill to Work: The Agile Leader As Dreamcatcher
+### Putting The Skill to Work: The Agile Leader As <u>Dreamcatcher</u>
 <a id="Skill-7"></a>
 ## Chapter 8: Start Slowly To Go Fast - But Start (Skill 7)
 <a id="Launching-Your-Learning"></a>
@@ -269,7 +377,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="What-Next"></a>
 ### What Next ?
 <a id="The-Agile-Leader-As-Experimenter"></a>
-### Putting The Skill to Work: The Agile Leader As Experimenter
+### Putting The Skill to Work: The Agile Leader As <u>Experimenter</u>
 <a id="Skill-8"></a>
 ## Chapter 9: Draft Short-Term Action Plans That Include Everyone
 <a id="Shared-Leadership"></a>
@@ -279,7 +387,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Micro-Commitments-Build-Trust"></a>
 ### Micro-Commitments Build Trust
 <a id="The-Agile-Leader-As-Deal-Closer"></a>
-### Putting The Skill to Work: The Agile Leader As Deal-Closer
+### Putting The Skill to Work: The Agile Leader As <u>Deal-Closer</u>
 <a id="Skill-9"></a>
 ## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust
 <a id="Learing-Loops"></a>
@@ -287,7 +395,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Building-New-Habits"></a>
 ### Building New Habits
 <a id="The-Agile-Leader-As-Convener"></a>
-### Putting The Skill to Work: The Agile Leader As Convener
+### Putting The Skill to Work: The Agile Leader As <u>Convener</u>
 <a id="Skill-10"></a>
 ## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits
 <a id="Nudgings"></a>
@@ -297,7 +405,7 @@ We've now set the stage for the ten skills by introducing some of the key concep
 <a id="Promoting"></a>
 ### Promoting
 <a id="The-Agile-Leader-As-Chief-Doing-Officer"></a>
-### Putting The Skill to Work: The Agile Leader As Chief Doing Officer
+### Putting The Skill to Work: The Agile Leader As <u>Chief Doing Officer</u>
 <a id="Now-What"></a>
 ## Chapter 12: Ten Skills. Got It. Now What ?
 <a id="Strategic-Doing"></a>
