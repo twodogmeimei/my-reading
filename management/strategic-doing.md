@@ -603,6 +603,14 @@ The matrix preserves the fair and transparent advantage of the other methods dis
 
 Example: the decision to be made is where to locate a new school
 
+The school board has identified three possible sites (A, B, and C). The criteria are the cost of construction (the sites are on different kinds of terrain) and the level of activity that would surround the new school (some are in neighborhoods, others are in more congested areas of the city; all things being equal, the board would like to site the school in a quieter area). Each of the five members of the school board makes their own evaluation of those factors and chooses a spot on the matrix for each location (so, there are 5 × 3 = 15 dots on the matrix). It wasn't obvious to the board what the right choice would be since there wasn't one site that was clearly both the quietest and the cheapest, but the matrix helps them visualize that there is, in fact, one choice that is probably optimal – Site B.
+
+![A 2x2 Matrix](./img/2x2-matrix.png?raw=true "A 2x2 Matrix")
+
+Having to consider two criteria at the same time forces people to see “both/and” potential, rather than “either/or.” You naturally ask, “what if,” to generate alternative views. It is a flexible and potent tool.
+
+**Using the Matrix**
+
 
 
 ### Dealing With Doubts and Doubters
