@@ -611,14 +611,55 @@ Having to consider two criteria at the same time forces people to see “both/an
 
 **Using the Matrix**
 
+To use this tool, there is a very important decision to make: Which two criteria should be considered are best‐suited to your challenge？ but we suggest two in particular: impact and ease of implementation (that's why we call it the Big Easy). You are looking for the opportunity that has the largest ***impact*** and is the ***easiest*** to implement.
 
+Selecting a first opportunity is critical to building the bonds of trust needed to move to the larger projects that will be needed for addressing complex challenges. You want people to be excited about what they are doing, and early success will keep them engaged for the long haul, drawing others in so that bigger opportunities are more achievable.
+
+As people build success by translating ideas into action, they are also building trust. As they are building trust, they are building the capacity to do more and more complex work together. Focusing on the Big Easy provides the right balance of a place to start.
+
+The “Big” in the Big Easy inspires people and engages them emotionally. The “Easy” means that there are practical steps that can be taken now to move toward this opportunity.
+
+Taken together, these two dimensions ensure that the group has avoided two common risks:
+* Selecting an idea that is very difficult to do and becoming discouraged, or 
+* Selecting something that is easy but inconsequential that no one will really care about.
+
+If you're just starting out, you probably have mostly pioneers around the table. The pragmatists are, for the most part, hanging back to see whether this effort will have staying power and if they can trust the group to treat them and their time well. If you pick an opportunity that is too ambitious and lose steam, you'll never get the pragmatists to join you.
+
+In some instances, a team's members may already know each other well. However, poor habits may have deflated the team. Perhaps they keep meeting with no decisions and no progress. Perhaps everyone has their own project in mind.
+
+The 2×2 matrix can help teams break through old habits and show their opportunities in a new light. It can rejuvenate a team around the potential for change and inspire others to join.
 
 ### Dealing With Doubts and Doubters
 <a id="The-Agile-Leader-As-Prioritizer"></a>
+When there is a complicated choice to be made, one individual may or may not know exactly how much impact an idea will have, or how easy it will be to pull it off.
+
+However, if a group of reasonably well‐informed people all make individual judgments about the two dimensions of impact and ease, the combined weight of all of those judgments will lead the group in the right direction. In our experience, by using a 2×2 matrix to surface a shared strategic intuition, teams gain insights faster, learn faster, and act faster.
+
+But what if you encounter doubters? Structuring your next steps in the same way that software developers do – taking baby steps to “try out” the Big Easy – is one way to respond to that worry. If the first steps toward your Big Easy opportunity prove that it was a dud, the group can easily go back and focus on another opportunity. This “tryout period” is an important advantage of agile strategy over traditional strategic planning
+
+With agile strategy, a limited amount of time will be “wasted” should the team be heading down what turns out to be a wrong path. Even if the group chooses the wrong opportunity to start, they will likely learn a lot from failure.
+
+Facing hard facts together also builds trust. In this way, agile strategy enables you to manage risk in a way that traditional strategic planning never can.
+
+Another common hesitation about using the Big Easy method is that it might appear to be premature to make any decision at all.
+
+That is, some members of the group may feel they need more information. But there is a real risk of delaying a decision on which opportunity to pursue. The group can become fixated on infinite fine tuning, ranking and reranking. Looking for more data can simply delay moving ideas into action. Because we are confronting complex, adaptive challenges, we must accept four realities.
+* First, delay – too much talk without action – erodes trust. If getting more information is simply an excuse for not doing anything, the trust in your group will begin to evaporate.
+* Second, it is impossible to have enough information to analyze a complex challenge completely before we begin.
+* Third, we will only really learn about this complex challenge when we begin to do something together. We need to experiment and test our ideas.
+* Fourth, you can be continuously both “generating” and “consuming” data by asking questions as you move forward. As you explore for answers, you will look for more data to guide you.
+
+Finally, you may find that what you chose as the Big Easy does not fit a progression that is in your (or someone else's) head for how the overall opportunity should come together.
+
+What should come first? If the assets are in place to launch the Big Easy we recommend you move forward and not worry about the order. Given enthusiasm and desire for success, the team will find that once the first opportunity is accomplished, they can then move to the next opportunity and the order will address itself.
+
 ### Putting The Skill to Work: The Agile Leader As <u>Prioritizer</u>
 <a id="Skill-6"></a>
+When you practice the Big Easy, you will find your skills for making choices improving. Agile leaders use these skills to help guide choices about which opportunities make the most sense, even when the environment is a complex one.
+
 ## Chapter 7: Convert Your Ideas To Outcomes With Measurable Characteristics (Skill 6)
 <a id="Great-Ideas-Lie-Below-The-Surface"></a>
+
 ### Great Ideas Lie Below The Surface
 <a id="Three-Questions-To-Ask"></a>
 ### Three Questions To Ask
