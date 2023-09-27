@@ -680,7 +680,7 @@ When you practice the Big Easy, you will find your skills for making choices imp
 <a id="The-Agile-Leader-As-Experimenter"></a>
 ### Putting The Skill to Work: The Agile Leader As <u>Experimenter</u>
 <a id="Skill-8"></a>
-## Chapter 9: Draft Short-Term Action Plans That Include Everyone
+## Chapter 9: Draft Short-Term Action Plans That Include Everyone (Skill 8)
 <a id="Shared-Leadership"></a>
 ### Shared Leadership
 <a id="Action-Plans-For-Shared-Leadership"></a>
@@ -690,7 +690,7 @@ When you practice the Big Easy, you will find your skills for making choices imp
 <a id="The-Agile-Leader-As-Deal-Closer"></a>
 ### Putting The Skill to Work: The Agile Leader As <u>Deal-Closer</u>
 <a id="Skill-9"></a>
-## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust
+## Chapter 10: Set 30/30 Meetings To Review Learn, And Adjust (Skill 9)
 <a id="Learing-Loops"></a>
 ### Learing Loops
 <a id="Building-New-Habits"></a>
@@ -698,7 +698,7 @@ When you practice the Big Easy, you will find your skills for making choices imp
 <a id="The-Agile-Leader-As-Convener"></a>
 ### Putting The Skill to Work: The Agile Leader As <u>Convener</u>
 <a id="Skill-10"></a>
-## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits
+## Chapter 11: Nudge, Connect, And, Promote To Reinforce New Habits (Skill 10)
 <a id="Nudgings"></a>
 ### Nudging
 <a id="Connecting"></a>
